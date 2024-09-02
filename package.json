@@ -1,0 +1,21 @@
+{
+  "name": "123-atm-project-by-shabana",
+  "version": "1.0.0",
+  "description": "ATM machine provide banking transaction and cash.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shabana",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.11"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
